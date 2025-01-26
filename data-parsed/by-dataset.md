@@ -419,6 +419,7 @@ This dataset is from the [ODMData](https://github.com/OpenDroneMap/ODMdata) coll
 | Toledo | 22m 12s | 10/20/2022 | 7.9 GB | Apple M1 Pro | 5 | 2.9.2 | Default | N |  |
 | Toledo | 0h 36m | 10/17/2024 | 8 GB | Ryzen 7 8845HS w/Radeon 780 Graphics | 16 | 3.5.4 | Default | N |  |
 | Toledo | 0h 27m | 10/17/2024 | 16 GB | Ryzen 7 8845HS w/Radeon 780 Graphics | 16 | 3.5.4 | Default | N |  |
+| Toledo | 0h 24m | 01/23/2025 | 32 GB | Intel Xeon E5440 | 8 | 1.7.1 | Default | 2048 |  |
 
 
 ## Tuniu 1
@@ -502,6 +503,7 @@ This dataset is from the [ODMData](https://github.com/OpenDroneMap/ODMdata) coll
 | Wietrznia | 1h 53m | 10/13/2022 | 56 GB | Xeon E5-1620 | 8 | 2.9.1 | Multispectral | N |  |
 | Wietrznia | 0h 44m | 10/14/2022 | 56 GB | Xeon E5-1620 | 8 | 2.9.1 | Default | 2048 |  |
 | Wietrznia | 1h 10m | 10/17/2024 | 16 GB | Ryzen 7 8845HS w/Radeon 780 Graphics | 16 | 3.5.4 | Default | N |  |
+| Wietrznia | 1h 09m | 01/23/2025 | 32 GB | Intel Xeon E5440 | 8 | 1.7.1 | Default | 2048 |  |
 
 
 ## Zoo

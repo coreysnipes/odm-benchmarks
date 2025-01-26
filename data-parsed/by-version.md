@@ -286,6 +286,14 @@
 | Aukerman | 0h 31m | 9/26/2020 | 8 GB | Ryzen 5 1500x | 8 | 2.0.0 | Default | 2048 |  |
 
 
+## OpenDroneMap Version 1.7.1
+
+| DATASET | TIME | TEST DATE | RAM | CPU TYPE | CORES | ODM | PRESET | RESIZE | ADDL CONFIG |
+|---------|------|-----------|-----|----------|-------|-----|--------|--------|-------------|
+| Toledo | 0h 24m | 01/23/2025 | 32 GB | Intel Xeon E5440 | 8 | 1.7.1 | Default | 2048 |  |
+| Wietrznia | 1h 09m | 01/23/2025 | 32 GB | Intel Xeon E5440 | 8 | 1.7.1 | Default | 2048 |  |
+
+
 ## OpenDroneMap Version 0.9.8
 
 | DATASET | TIME | TEST DATE | RAM | CPU TYPE | CORES | ODM | PRESET | RESIZE | ADDL CONFIG |
